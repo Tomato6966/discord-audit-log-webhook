@@ -2,6 +2,8 @@
 
 **This Repository is for a Discord Bot which creates a Webhook, saves the Webhook in the config.json and then send all guild/member/role changes into a Defined Channel.**
 
+## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+
 ## Installation | How to use the Bot
 
  **1.** Install [node.js v12+](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) or higher
@@ -21,12 +23,17 @@
 *MAKE SURE THAT THE BOT HAS ADMIN*
 
 
-# SUPPORT ME
-BY [INVITING MY PUBLIC MUSIC BOT 24/7 UPTIME!](https://discord.com/api/oauth2/authorize?client_id=742672021422342165&permissions=8&scope=bot)
+# SUPPORT ME AND MILRATO DEVELOPMENT
 
-This repository only exists, because of this DISCORD BOT, so make sure to invite it, so that i can keep this Repo up to date ;)
+You can always Support me by inviting one of my **own Discord Bots**
 
-## BEST HOSTING | Bittmax.de
+[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.eu)
+[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://dc.musicium.eu)
+[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://dc.milrato.eu)
+
+## Sponsors
+
+### BEST HOSTING | Bittmax.de
 BITTMAX Quality is their solution.
 Bittmax is our first and probably most important sponsor!
 
@@ -47,7 +54,7 @@ Bittmax is our first and probably most important sponsor!
 GET **5%** OFF EVERYTHING FOR EVER!
 Code: **`x10`**
 
-## MC-Host24.de
+### MC-Host24.de
 MC-Host24.de is selling the Best Digital Hosting Services ever!
 Like For games..
 
